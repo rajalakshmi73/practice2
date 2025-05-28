@@ -1,0 +1,27 @@
+.train{
+    background-color: aliceblue;
+    height: fit-content;
+    width: fit-content;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.train h2{
+    background-color: black;
+    color: aliceblue;
+    font-style: italic;
+
+}
+
+.login{
+    background-color:aliceblue;
+    height: fit-content;
+    width: fit-content;
+    text-align: center;
+    
+} 
+.login h2{
+    background-color: black;
+    color: aliceblue;
+    font-style: italic;
+}
